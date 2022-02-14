@@ -1,0 +1,11 @@
+{
+    "ip": "Tagigang.aternos.me",
+    "port": "26595",
+    "name": "hi gang",
+    "auto-night-skip": "true",
+    "prefix": "",
+    "login-enabled": "true",
+    "register-cmd": "/login kartikopp kartikopp",
+    "login-cmd": "/login kartikopp",
+    "loginmsg": "hello gang",
+}
